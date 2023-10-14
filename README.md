@@ -53,7 +53,7 @@ Dive in and enjoy Wordle Reloaded. Remember, whether it's three letters or five,
 1. Ensure the `wordlewords.txt` file is in the same directory as the game source code.
 2. Compile the program using the following command:
 ```bash
-g++ <filename>.cpp -o wordleReloadGame
+g++ main.cpp -o wordleReloadGame
 ```
 Replace `<filename>` with the name of the C++ source file.
 

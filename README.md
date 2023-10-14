@@ -92,5 +92,3 @@ Replace `<filename>` with the name of the C++ source file.
 ## Enhancements and Modifications
 If you wish to add new words or modify the existing word list, simply make changes to the `wordlewords.txt` file.
 
-## License
-Ensure to give credit to the original creators or source if you intend to use, distribute or modify this game for non-personal or commercial purposes.
